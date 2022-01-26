@@ -1,0 +1,44 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image2": {
+        "data": "hwQQABAAAABmZmZmZub+znd3d3d3Zu7Od3d3d3dn5s53d3d3d2buz3d3d3d35u7Od3d3d3fm/s53d3d3d2buznd3d3d3Z+bOd3d3d3dn5s93d3d3d2buznd3d3d35v7Od3d3d3fm7s53d3d3d2buz3d3d3d3Z+bOd3d3d3dm7s5mZmZmZub+zg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Ground Edge.png"
+    },
+    "image3": {
+        "data": "hwQQABAAAACMaJmZmZmZmYyWmZmZmZmZjGaZmZmZmZmMaGmZmZmZmYxolpmZmZmZjJaZmZmZmZmMZpmZmZmZmYxoaZmZmZmZjGiWmZmZmZmMlpmZmZmZmYxmmZmZmZmZjGhpmZmZmZmMaJaZmZmZmYyWmZmZmZmZjGaZmZmZmZmMaJmZmZmZmQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Water Edge.png"
+    },
+    "image4": {
+        "data": "hwQQABAAAACZmZmZmZmZmZmZmZmZmZmZmZmZmZlmlpmZmZmZaWZmmZmZmZlpZmaZmZmZmWmWZpmZmZmZmZaWmZmZmZmZmZmZmZmZmZmZmZmZZpaZmZmZmWlmZpmZmZmZaWaZmZmZmZlpZmaZmZmZmZlmlpmZmZmZmZmZmZmZmZmZmZmZmZmZmQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Lily Pads-1.png"
+    },
+    "image5": {
+        "data": "hwQQABAAAACZmZmZmZmZmZmZmZmZmZmZmWaWmZmZmZkZZmaZmZmZmRFhmZmZmZmZGWZmmZmZmZmZZpaZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZaWmZmZmZlplmaZmZmZmWlmZpmZmZmZaTZmmZmZmZmZM5OZmZmZmZk5mZmZmZmZmZmZmQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Lily Pads Flowers-1.png"
+    },
+    "image6": {
+        "data": "hwQQABAAAACZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmdmZmZmZmZmZ6Z6ZmZmZmZmZbpmWmZmZmZl5lmmZmZmZmZlnmZmZ2e5uZmZmmZmZmZl5ZpaZmZmZmWeWaZmZmZl5lpmWmZmZ7W6ZaZmZmZmZmZmZmQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Bullrushes.png"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "ZjQwMTEwMDAxMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA=",
+        "displayName": "myAnim"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
